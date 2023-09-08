@@ -1,4 +1,4 @@
-# windows-network-detective
+# network-detective.py
 Runs a script that will perform netstat -anob and do reverse lookup, whois, and check abuse score from abuseipdb.com.
 Running the script might take a while depending on the number of IP gathered from your PC.
 After running the script, you will get 2 files:
