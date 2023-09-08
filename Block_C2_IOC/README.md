@@ -23,7 +23,8 @@ You will need this to automatically delete the added rules in case you do not wa
 ![image](https://github.com/romarroca/windows-diy-antivirus/assets/87074019/055daf0b-3274-4c3f-a70e-fe51b59de619)
 
 
-## Disclaimer: I use this script personally as an additional layer of security for my 
+## Disclaimer
+I use this script personally as an additional layer of security for my 
 computer. While it aims to enhance security, it is not a guaranteed 
 solution for protecting your PC. Use this script at your own risk and discretion. 
 Make sure you understand its functionality before implementing it.
